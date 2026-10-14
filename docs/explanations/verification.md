@@ -1,5 +1,8 @@
 # Verification Architecture
 
+> Note: the current witness leaf space is **272** leaves; any `234` figures
+> below are explicitly dated history, kept for the record.
+
 Which layer of this repository's verification proves what, what each layer
 costs, and the rules a new check has to satisfy before it lands.
 
